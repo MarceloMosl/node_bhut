@@ -13,7 +13,7 @@ docker run -p 4000:4000 -d bhut_app
 
 Pronto! 
 
-Agora basta testar a aplicação utilizando o ThundClient na rota GET http://localhost:4000/cars por exemplo.
+Agora basta testar a aplicação utilizando o ThundClient na rota GET http://localhost:4000/listCars por exemplo.
 
 caso não tenha o Docker, 
 
